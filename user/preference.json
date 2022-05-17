@@ -1,16 +1,16 @@
 {
 	"font": "./font/SourceCodePro-Semibold.ttf",
 	"fontsize": 122,
-	"background": "C:\\Users\\yys\\Desktop\\diy\\tttt.png",
+	"background": "",
 	"theme": "monokai",
 	"opacity": 66,
 	"bounds": {
-		"x": 541,
-		"y": 282,
+		"x": 398,
+		"y": 283,
 		"width": 1069,
 		"height": 621
 	},
-	"server": "http://49.235.109.109:3000",
-	"template": "C:\\Users\\yys\\Desktop\\刷题\\codeforces\\A. CQXYM Count Permutations.cpp",
+	"server": "",
+	"template": "",
 	"cmode": false
 }
