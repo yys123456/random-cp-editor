@@ -2,7 +2,7 @@
 
 使用electron UI ➕ node.js ➕ C++ 简易沙箱制作
 
-<img src ="image/1.jpg">
+<img src ="https://i.imgur.com/AixxKe6.jpg">
 
 **支持特性：**
 
